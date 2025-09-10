@@ -1,0 +1,132 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "user": {
+        "id": 1,
+        "username": "john_doe",
+        "profile_pic": "/assets/ronaldo.jpeg"
+      },
+      "image": "/assets/image1.jpeg",
+      "caption": "Beautiful sunset 🌅 #Nature",
+      "likes": 120,
+      "comments": [
+        {
+          "user": "alice_wonder",
+          "comment": "Wow! Amazing shot! 📸"
+        },
+        {
+          "user": "mark_92",
+          "comment": "Where is this place?"
+        }
+      ],
+      "timestamp": "2025-02-11T14:30:00Z"
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": 2,
+        "username": "emma_smith",
+        "profile_pic": "/assets/marcelo.jpeg"
+      },
+      "image": "/assets/image2.jpeg",
+      "caption": "My morning coffee ☕ #Relaxing",
+      "likes": 89,
+      "comments": [
+        {
+          "user": "john_doe",
+          "comment": "I need one too!"
+        },
+        {
+          "user": "nature_lover",
+          "comment": "Looks cozy!"
+        }
+      ],
+      "timestamp": "2025-03-01T08:45:00Z"
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": 3,
+        "username": "travel_guy",
+        "profile_pic": "/assets/romas.jpeg"
+      },
+      "image": "/assets/image3.jpg",
+      "caption": "Adventure time! 🏔️ #TravelDiaries",
+      "likes": 200,
+      "comments": [
+        {
+          "user": "emma_smith",
+          "comment": "Take me with you!"
+        },
+        {
+          "user": "mark_92",
+          "comment": "Where is this place?"
+        }
+      ],
+      "timestamp": "2025-04-15T10:10:00Z"
+    }
+  ],
+  "profile": {
+    "id": 1,
+    "username": "maja",
+    "profile_pic": "/assets/marcelo.jpeg"
+  },
+  "suggestion": [
+    {
+      "id": "1",
+      "username": "john_doe",
+      "profile_pic": "/assets/ronaldo.jpeg"
+    },
+    {
+      "id": "2",
+      "username": "emma_smith",
+      "profile_pic": "/assets/marcelo.jpeg"
+    },
+    {
+      "id": "3",
+      "username": "travel_guy",
+      "profile_pic": "/assets/romas.jpeg"
+    },
+    {
+      "id": "4",
+      "username": "smith",
+      "profile_pic": "/assets/ronaldo.jpeg"
+    },
+    {
+      "id": "5",
+      "username": "travel",
+      "profile_pic": "/assets/marcelo.jpeg"
+    }
+  ],
+  "story": [
+    {
+      "id": "1",
+      "user": {
+        "id": 1,
+        "username": "john_doe",
+        "profile_pic": "/assets/ronaldo.jpeg"
+      },
+      "image": "/assets/img1.jpeg"
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": 2,
+        "username": "emma_smith",
+        "profile_pic": "/assets/marcelo.jpeg"
+      },
+      "image": "/assets/img2.jpeg"
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": 3,
+        "username": "travel_guy",
+        "profile_pic": "/assets/romas.jpeg"
+      },
+      "image": "/assets/img3.jpeg"
+    }
+  ],
+  "followers": []
+}
